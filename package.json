@@ -2,12 +2,12 @@
   "name": "panda-dark",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A comfortble dark theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/panda-dark",
+  "repository": "https://github.com/PandaDigital/pandaDarkAtom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
